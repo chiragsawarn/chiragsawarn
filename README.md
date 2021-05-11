@@ -8,4 +8,4 @@
 
 - ⚡ Fun fact: Though, everyone shits on php, react looks up to it.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=chiragsawarn)
+![Github stats](https://github-readme-stats.vercel.app/api?username=chiragsawarn&show_icons=true&theme=radical)
