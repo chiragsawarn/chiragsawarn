@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Zocdoc clone.
-- 🌱 I’m currently learning front end web development with React.
+- 🔭 I’m currently working on an AES Encrypted Video Chat Application.
+- 🌱 I’m currently learning backend web development with NodeJS and Express.
 - 👯 I’m looking to collaborate to solve real world problems.
 - 💬 Would love to have a discussion on cutting edge Tech.
 - 📫 How to reach me: @chiragsawarn on Twitter & Instagram
